@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Windows报无法成功完成操作,因为文件包含病毒或潜在的垃圾软件的解决方法</title>
+      <link href="/123/2020/06/23/Windows%E6%8A%A5%E6%97%A0%E6%B3%95%E6%88%90%E5%8A%9F%E5%AE%8C%E6%88%90%E6%93%8D%E4%BD%9C,%E5%9B%A0%E4%B8%BA%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E7%97%85%E6%AF%92%E6%88%96%E6%BD%9C%E5%9C%A8%E7%9A%84%E5%9E%83%E5%9C%BE%E8%BD%AF%E4%BB%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+      <url>/123/2020/06/23/Windows%E6%8A%A5%E6%97%A0%E6%B3%95%E6%88%90%E5%8A%9F%E5%AE%8C%E6%88%90%E6%93%8D%E4%BD%9C,%E5%9B%A0%E4%B8%BA%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E7%97%85%E6%AF%92%E6%88%96%E6%BD%9C%E5%9C%A8%E7%9A%84%E5%9E%83%E5%9C%BE%E8%BD%AF%E4%BB%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\123\assets\css\APlayer.min.css"><script src="\123\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>在Windows的搜索框中输入Windows安全中心，搜索到后将其打开</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623151236164.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="Windows安全中心"></p><blockquote><p>点击病毒和威胁防护将鼠标移动到Microsoft Defender防病毒选项处，将定期扫描打开</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623150926309.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="定期扫描打开"></p><blockquote><p>下滑找到管理设置</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623152547345.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="管理设置"></p><blockquote><p>先关闭篡改防护，再点击添加或删除排除项</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623153720657.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="关闭篡改防护添加或删除排除项"></p><blockquote><p>先点击添加排除项，再点击文件，选择报出异常的文件，将其添加到排除项中，过程中会存在跳框确认，皆点击确定，完成后就可以运行报无法成功完成操作,因为文件包含病毒或潜在的垃圾软件异常的文件了</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623154034993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>IDEA无法打开的解决办法</title>
       <link href="/123/2020/06/23/IDEA%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/"/>
       <url>/123/2020/06/23/IDEA%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</url>
