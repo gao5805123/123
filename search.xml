@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>IDEA无法打开的解决办法</title>
+      <link href="/123/2020/06/23/IDEA%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/"/>
+      <url>/123/2020/06/23/IDEA%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\123\assets\css\APlayer.min.css"><script src="\123\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>打开隐藏文件夹</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623092626587.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="打开隐藏文件夹"></p><blockquote><p>将以下地址粘贴到搜索框中</p></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\lenovo\AppData\Roaming\JetBrains</span><br></pre></td></tr></table></figure><blockquote><p>选择打不开的idea版本</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623092931453.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="在这里插入图片描述"></p><blockquote><p>找到idea64.exe.vmoptions，右键用记事本打开</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623093151361.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="在这里插入图片描述"></p><blockquote><p>在该配置文件中的删除-Djdk.module.illegalAccess.silent=true以后的数据，保存后双击IDEA图标即可</p></blockquote><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200623093508462.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="-Djdk.module.illegalAccess.silent=true"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> IDEA </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IDEA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Windows的C盘下可以清理的文件</title>
       <link href="/123/2020/06/22/Windows%E7%9A%84C%E7%9B%98%E4%B8%8B%E5%8F%AF%E4%BB%A5%E6%B8%85%E7%90%86%E7%9A%84%E6%96%87%E4%BB%B6/"/>
       <url>/123/2020/06/22/Windows%E7%9A%84C%E7%9B%98%E4%B8%8B%E5%8F%AF%E4%BB%A5%E6%B8%85%E7%90%86%E7%9A%84%E6%96%87%E4%BB%B6/</url>
