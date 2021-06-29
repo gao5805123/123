@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>IDEA连接MySQL数据库报Server returns invalid timezone. Need to set &#39;serverTimezone&#39; property.</title>
+      <link href="/123/2021/06/29/IDEA%E8%BF%9E%E6%8E%A5MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%A5Server%20returns%20invalid%20timezone.%20Need%20to%20set%20&#39;serverTimezone&#39;%20property./"/>
+      <url>/123/2021/06/29/IDEA%E8%BF%9E%E6%8E%A5MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%A5Server%20returns%20invalid%20timezone.%20Need%20to%20set%20&#39;serverTimezone&#39;%20property./</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\123\assets\css\APlayer.min.css"><script src="\123\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="异常信息"><a href="#异常信息" class="headerlink" title="异常信息"></a><strong>异常信息</strong></h1><p><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20210629145006213.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="异常信息"></p><h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a><strong>解决方法</strong></h1><blockquote><p>在Advanced下找到serverTimezone，未找到可以下滑滚轮到最下面进行添加，然后将其Value设为Asia/ShangHai或UTC即可<br><img src="/123/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20210629145355811.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dhbzU4MDUxMjM=,size_16,color_FFFFFF,t_70"  alt="解决方法"></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> IDEA </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IDEA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>定位和排查OOM流程</title>
       <link href="/123/2021/06/29/%E5%AE%9A%E4%BD%8D%E5%92%8C%E6%8E%92%E6%9F%A5OOM%E6%B5%81%E7%A8%8B/"/>
       <url>/123/2021/06/29/%E5%AE%9A%E4%BD%8D%E5%92%8C%E6%8E%92%E6%9F%A5OOM%E6%B5%81%E7%A8%8B/</url>
